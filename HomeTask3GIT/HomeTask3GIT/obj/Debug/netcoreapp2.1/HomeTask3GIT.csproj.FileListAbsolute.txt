@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\HomeTask3GIT\HomeTask3GIT\bin\Debug\netcoreapp2.1\HomeTask3GIT.deps.json
+C:\Users\user\source\repos\HomeTask3GIT\HomeTask3GIT\bin\Debug\netcoreapp2.1\HomeTask3GIT.runtimeconfig.json
+C:\Users\user\source\repos\HomeTask3GIT\HomeTask3GIT\bin\Debug\netcoreapp2.1\HomeTask3GIT.runtimeconfig.dev.json
+C:\Users\user\source\repos\HomeTask3GIT\HomeTask3GIT\bin\Debug\netcoreapp2.1\HomeTask3GIT.dll
+C:\Users\user\source\repos\HomeTask3GIT\HomeTask3GIT\bin\Debug\netcoreapp2.1\HomeTask3GIT.pdb
+C:\Users\user\source\repos\HomeTask3GIT\HomeTask3GIT\obj\Debug\netcoreapp2.1\HomeTask3GIT.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HomeTask3GIT\HomeTask3GIT\obj\Debug\netcoreapp2.1\HomeTask3GIT.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HomeTask3GIT\HomeTask3GIT\obj\Debug\netcoreapp2.1\HomeTask3GIT.AssemblyInfo.cs
+C:\Users\user\source\repos\HomeTask3GIT\HomeTask3GIT\obj\Debug\netcoreapp2.1\HomeTask3GIT.dll
+C:\Users\user\source\repos\HomeTask3GIT\HomeTask3GIT\obj\Debug\netcoreapp2.1\HomeTask3GIT.pdb
